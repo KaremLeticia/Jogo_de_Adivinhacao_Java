@@ -1,14 +1,19 @@
-# Jogo de Adinvinhação
-Este é um simples jogo de adivinhação em Java, onde o usuário tenta adivinhar um número escolhido pelo computador entre 0 e 10.
+# 🎲 Jogo de Adivinhação em Java
 
-# Descrição
-O jogo funciona da seguinte maneira:
+Este é um projeto simples de **jogo de adivinhação** desenvolvido em **Java**, com o objetivo de praticar lógica de programação, estruturas condicionais e interação com o usuário via console.
 
-O programa pergunta ao usuário qual é seu nome.
-O programa pergunta se o usuário quer jogar.
-Se a resposta for "não" (opção 2), o programa encerra.
-Se a resposta for "sim" (opção 1), o jogo começa.
-O computador escolhe um número aleatório entre 0 e 10 (inclusive).
-O usuário tenta adivinhar o número.
-Se o usuário errar, ele pode tentar novamente até acertar.
-Se o usuário acertar, uma mensagem de parabéns é exibida.
+## 🎯 Objetivo do jogo
+
+O jogo gera um número aleatório, e o jogador precisa adivinhar qual é esse número. A cada tentativa, o programa informa se o número digitado é **maior** ou **menor** do que o número secreto — até o jogador acertar.
+
+## 🚀 Tecnologias utilizadas
+
+- **Java** – Linguagem de programação
+- **IDE**: Recomendado usar IntelliJ, Eclipse ou VS Code com extensão Java
+- **Terminal/Console** para execução
+
+## 📦 Como executar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/KaremLeticia/Jogo_de_Adivinhacao_Java.git
